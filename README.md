@@ -1,0 +1,2 @@
+# DiscordGptBot
+chatgpt in discord
